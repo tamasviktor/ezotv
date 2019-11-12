@@ -1,2 +1,2 @@
 <?
-echo "salalala";
+echo "salalala TEST";
